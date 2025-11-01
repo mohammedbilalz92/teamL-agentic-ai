@@ -1,0 +1,14 @@
+
+
+
+## Follow the 4 Steps below to start working with ipynb files
+# 1. Activate your virtual environment
+.\agentic-ai\udemy-auto-gen-venv\Scripts\Activate.ps1
+
+# 2. Install ipykernel
+pip install ipykernel
+
+# 3. Register the kernel
+python -m ipykernel install --user --name=udemy-auto-gen-venv --display-name "Python (udemy-auto-gen)"
+
+# 4. Restart VS Code
