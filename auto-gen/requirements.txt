@@ -2,3 +2,4 @@ autogen-agentchat
 autogen-ext[openai]
 dotenv
 autogen-core
+pydantic
