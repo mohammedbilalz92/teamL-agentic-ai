@@ -46,5 +46,3 @@ vector_store = QdrantVectorStore.from_documents(
 print("✅ HTML content successfully indexed in Qdrant vector store!")
 print(f"Collection name: html-rag")
 print(f"Total chunks stored: {len(chunks)}")
-
-
