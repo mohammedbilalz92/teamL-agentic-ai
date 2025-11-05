@@ -8,7 +8,7 @@ A modern Angular chat interface for interacting with the Amstat RAG Chat system.
 
 - 💬 Real-time chat interface (ChatGPT-like)
 - 🔍 RAG-powered responses from vector database
-- 📚 Source citations with relevance scores
+- 📚 Source citations with relevance scores.
 - 🎥 **YouTube video embedding with timestamp navigation**
 - 🎨 Modern, responsive UI
 - ⚡ Fast and efficient
