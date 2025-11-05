@@ -1,0 +1,7 @@
+import os
+
+OPENAI_API_KEY= os.getenv('OPENAI_API_KEY')
+MODEL='gpt-4.1-mini'
+MAX_TURN=5
+TERMINATION_WORD='stop'
+MAX_TOKENS=2000
