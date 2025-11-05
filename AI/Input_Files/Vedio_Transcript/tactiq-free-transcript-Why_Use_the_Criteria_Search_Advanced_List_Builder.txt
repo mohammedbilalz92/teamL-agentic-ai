@@ -1,0 +1,230 @@
+# tactiq.io free youtube transcript
+# No title found
+# https://www.youtube.com/watch/3f3mvs1oAXg
+
+00:00:00.359 the broadcast is now starting all
+00:00:02.280 attendees are in listen only
+00:00:10.240 mode hello everyone thank you for
+00:00:13.080 attending our uh webinar series we're
+00:00:16.199 going to give it a few more minutes to
+00:00:18.520 give uh people some time to
+00:00:28.960 join
+00:02:54.040 all right hello everyone uh my name is
+00:02:57.519 uh Sonia Burke I am the customer
+00:02:59.760 customer service manager with amstat
+00:03:02.760 joining me today is my colleague Jessica
+00:03:05.360 Simmons customer service
+00:03:09.159 specialist hi this is Jessica thank you
+00:03:11.640 all for joining us
+00:03:13.159 today thanks Jessica uh welcome everyone
+00:03:16.599 to our amstat client webinar series each
+00:03:20.120 webinar will be designed to Showcase one
+00:03:22.799 specific function of the amstad premiere
+00:03:25.519 and connect Services we will keep these
+00:03:28.319 short and light and just explain how to
+00:03:31.239 utilize said features to get the most
+00:03:33.959 out of the service and your time please
+00:03:36.760 feel free to ask questions at the end of
+00:03:39.159 the webinar via the chat feature so many
+00:03:43.040 if not most on this call are familiar
+00:03:45.519 with using the criteria search within
+00:03:47.920 the am amstat platforms but are most of
+00:03:51.080 you utilizing the advanc list Builder
+00:03:55.079 today's series will focus on the
+00:03:58.120 criteria search but more specifically
+00:04:00.879 the advances Builder and the benefits of
+00:04:02.959 upgrading your criteria search before we
+00:04:06.200 jump into the service let's discuss the
+00:04:12.360 benefits first the advances Builder
+00:04:15.640 allows users to search by specific mies
+00:04:19.000 and models and
+00:04:20.680 territories it also allows users to
+00:04:23.440 combine multiple territories and make
+00:04:25.880 models into one report without having to
+00:04:28.759 merge multiple Excel reports it also
+00:04:32.280 creates one tab within the application
+00:04:34.720 to results there are also some
+00:04:38.000 additional features search features that
+00:04:40.680 you can use to create your report as
+00:04:44.039 well so let's Jump Right
+00:04:52.240 In and we'll be looking at it from the
+00:04:54.840 perspective of Premiere but if anyone on
+00:04:57.280 the call is utilizing the amstat connect
+00:04:59.880 service this information will apply as
+00:05:02.680 well we're going to jump right over to
+00:05:04.880 the criteria search
+00:05:07.199 here and for today's example we're going
+00:05:09.960 to use the aircraft but the advanced
+00:05:12.600 list Builder will apply to company
+00:05:15.600 transactions and changes as
+00:05:19.160 well once you open the criteria search
+00:05:22.680 with the aircraft it automatically
+00:05:25.440 defaults to the Quick List Builder but
+00:05:28.039 if we jump down to the advances Builder
+00:05:30.720 you can see that you can the additional
+00:05:33.520 features we discussed start to populate
+00:05:36.560 um the first example is the identifier
+00:05:39.000 so we we can search either by make model
+00:05:42.240 aircraft type or regge number right off
+00:05:45.520 the back here compared to the Quick List
+00:05:47.160 Builder you see that you can expand the
+00:05:49.600 makes to see all the different models
+00:05:52.639 from here you can select multiple models
+00:05:55.520 with different from different makes you
+00:05:57.639 can select as many or as little as you
+00:05:59.479 you'd
+00:06:00.840 like and then also with the aircraft
+00:06:04.400 type this looks similar to the Quick
+00:06:06.520 List Builder but here is where you start
+00:06:08.720 to see the changes here you can select
+00:06:11.639 all or some of the aircraft type and
+00:06:14.639 these also expand to see the
+00:06:17.680 breakdown so for this purpose we'll
+00:06:19.919 select the
+00:06:22.960 Jets and you also have the option to
+00:06:25.599 search by registration number so
+00:06:28.039 searching by registration number is a
+00:06:30.080 nice feature with the advances Builder
+00:06:32.520 this gives you the ability to copy and
+00:06:35.479 paste a a list of tail numbers you might
+00:06:37.919 have already saved on a separate report
+00:06:40.599 or just something that you've been
+00:06:41.880 working on previously so this instead of
+00:06:44.759 going back into the keyword search and
+00:06:46.680 entering those tail numbers individually
+00:06:49.440 you can now just copy and paste them
+00:06:51.360 into the advances Builder and run a
+00:06:53.800 report on those specific tail
+00:06:56.800 numbers so we've selected the Jets for
+00:06:59.599 our purpose we're going to jump down to
+00:07:02.160 the
+00:07:03.800 location and this is where you'll see
+00:07:05.840 some of those additional benefits of
+00:07:07.960 using the advances Builder as well um
+00:07:11.000 from here you can select your search by
+00:07:13.280 region or airport code if we're working
+00:07:15.759 with the region we can then do our drop
+00:07:18.840 down and pick our region but you can
+00:07:20.879 also enter in um specific territories
+00:07:24.599 you want just by typing them in so for
+00:07:26.639 example I'm based in the US out of of
+00:07:29.560 New Jersey I know I have a rather small
+00:07:32.120 territory I want to work with so I don't
+00:07:33.800 want to pull the entire us region I'm
+00:07:36.599 going to just enter my territory
+00:07:38.400 starting with New
+00:07:40.280 Jersey let's do New
+00:07:43.000 York and you'll see as we type in our
+00:07:45.639 territories the summary of what we've
+00:07:48.000 selected so far is updated on your right
+00:07:50.680 hand side
+00:07:52.159 here and then let's add in
+00:07:56.840 Pennsylvania so now we've entered in
+00:07:59.360 jets that are based in these three
+00:08:02.759 regions now based on your specific
+00:08:05.520 company or your interest you can filter
+00:08:08.039 in additional um requirements for your
+00:08:10.759 report so for example if we go into
+00:08:13.240 aircraft for sale status and state if
+00:08:16.599 you're interested in knowing if a
+00:08:18.159 specific uh group or Market of aircraft
+00:08:21.280 are for sale you can specifically
+00:08:24.199 indicate for sale or not for
+00:08:26.879 sale and then we have also on the Le
+00:08:29.800 hand side user fields and specs so here
+00:08:33.559 you can put in a price range a total
+00:08:36.000 time range of aircraft and then you have
+00:08:39.120 additional spec Fields here that you can
+00:08:41.479 add into your
+00:08:45.680 search if you're interested in ownership
+00:08:48.680 or if you're a fractional company you
+00:08:50.800 can type in go to the ownership and type
+00:08:53.320 in the program that they're on you can
+00:08:55.360 select the ownerships that type that
+00:08:57.440 you're interested in
+00:08:59.760 and then we also have financing
+00:09:05.160 options and then we have recent
+00:09:07.519 utilization age and certification so
+00:09:10.600 this allows you to see to enter time
+00:09:13.240 range of uh 12 months 36 months 2 months
+00:09:16.920 whatever is is relevant to your search
+00:09:19.519 and then you can see the aircraft that
+00:09:21.160 have flown into a specific location or
+00:09:23.560 total hours over a period of
+00:09:26.440 time and then also on the bottom you can
+00:09:29.440 select the age range as well as the
+00:09:32.160 certification type of the
+00:09:35.480 aircraft so as you make these selections
+00:09:38.240 this will W narrow down your search to
+00:09:40.920 be really specific to what any given
+00:09:43.079 report that you're interested
+00:09:45.519 in for this purpose we'll keep it as is
+00:09:48.760 Jets located in my three territories
+00:09:51.320 we're going to click on
+00:09:55.839 search and then it brings up the report
+00:09:59.480 so if you're used to using the criteria
+00:10:02.320 search the Quick List Builder you'll be
+00:10:04.800 familiar with the tabs up here if you
+00:10:07.360 were running this report um you would
+00:10:09.959 have a minimum of three tabs because we
+00:10:12.440 searched the Jets and we searched three
+00:10:15.440 specific territories so each of those
+00:10:17.440 territories would have had their own tab
+00:10:19.640 here but since we did the Advan this
+00:10:21.959 Builder it's putting all our territories
+00:10:24.800 into one report which is ideal because
+00:10:27.560 if this is the the report rep that
+00:10:29.399 you're going to work off of you want to
+00:10:30.920 be able to reference one report you want
+00:10:32.959 to see all your prospects and contacts
+00:10:36.160 in one one grouping and from here we can
+00:10:39.880 carry on as we would with the standard
+00:10:42.120 report you want to save it you can
+00:10:43.839 export it you can print it um if you
+00:10:47.720 export this again it'll just export the
+00:10:50.480 one report and then you don't have to
+00:10:52.639 worry about merging any Excel
+00:10:55.040 spreadsheets on your
+00:10:56.639 own once you have this up as well if you
+00:10:59.480 have any modifications you'd like to
+00:11:01.320 make to this report you don't have to go
+00:11:03.800 back up to criteria list a criteria
+00:11:06.519 search Advanced list Builder you can
+00:11:08.279 just click on modify criteria
+00:11:11.880 search and it already brings you back to
+00:11:14.360 the advanc list Builder it's saved your
+00:11:17.120 criteria that you've already entered and
+00:11:19.519 then you can make any additions or
+00:11:21.480 modifications you need into
+00:11:27.440 here so with that
+00:11:31.160 said um we'd like to invite you back to
+00:11:34.760 our next webinar it'll be on October
+00:11:37.839 23rd and um piggybacking off of this one
+00:11:41.320 we talked about saving your your
+00:11:43.240 criteria advanc list Builder report um
+00:11:46.079 with the next webinar we're going to
+00:11:47.760 discuss how to um save your searches and
+00:11:51.279 how to access them and what the benefits
+00:11:53.720 are to having a save search on your
+00:11:56.920 dashboard thank you all for your time
+00:11:59.360 time does anybody have any questions for
+00:12:07.639 us all right um if there are no
+00:12:11.040 questions um we look forward to seeing
+00:12:13.639 everybody at mbw a or at our next
+00:12:17.480 webinar series if anyone does have any
+00:12:20.000 questions that might pop up or would
+00:12:22.040 like to address anything in private or
+00:12:24.760 request a one-on-one demo please feel
+00:12:26.839 free to reach out to myself as well as
+00:12:29.839 to Jessica um if you are a Connect
+00:12:33.199 customer on this call and notice some
+00:12:35.440 features that you were interested in
+00:12:37.360 when I was showing you the premiere
+00:12:39.240 version feel free to reach out to us as
+00:12:41.480 well and we can schedule a
+00:12:43.519 demo thank you everybody for your time
+00:12:46.240 and we hope to see you at the next
+00:12:49.000 webinar thank you Sonia and thank you
+00:12:51.199 everybody for joining as well have a
+00:12:52.639 great day have a good day everyone thank
+00:12:57.839 you

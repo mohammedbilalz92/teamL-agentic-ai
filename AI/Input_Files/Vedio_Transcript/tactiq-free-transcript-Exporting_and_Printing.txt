@@ -1,0 +1,543 @@
+# tactiq.io free youtube transcript
+# No title found
+# https://www.youtube.com/watch/8J9txmKQKBQ
+
+00:00:00.320 the broadcast is now starting all
+00:00:02.200 attendees are in listen only
+00:00:05.040 mode hello everyone thank you for
+00:00:07.839 joining us today hope everyone enjoyed
+00:00:10.800 their weekends for those of you who are
+00:00:14.040 attending who have attended in the past
+00:00:16.160 welcome back and for new attendees thank
+00:00:18.960 you for joining my name is Sonia Burke
+00:00:22.800 and I'm the customer service manager and
+00:00:25.320 I'm joined by my colleague Jessica
+00:00:27.480 Simmons customer service specialist
+00:00:30.480 we like to keep these webinars short and
+00:00:32.320 sweet focusing on one part of the
+00:00:34.840 service with each webinar today's topic
+00:00:38.000 will be exporting and printing within
+00:00:40.239 the premiere plus and connect plus
+00:00:42.800 applications Jessica will be Fielding
+00:00:45.000 any questions at the end of the webinar
+00:00:47.559 simply enter your question in the chat
+00:00:50.120 box and as always if anyone would like
+00:00:53.239 to schedule group or individual training
+00:00:55.960 sessions please don't hesitate to reach
+00:00:58.440 out to myself or Jess
+00:01:01.920 iica jumping right into the
+00:01:07.840 platform we're going to take a look at
+00:01:10.640 the demonstration in Premiere plus but
+00:01:12.880 again these features also apply to any
+00:01:15.240 of our users of the connect plus service
+00:01:18.920 so there's many ways to um print and
+00:01:22.920 Export the amstat data within the
+00:01:25.720 service and we're going to break it down
+00:01:27.799 in two steps with three um ways to
+00:01:31.200 search in each step so for the first
+00:01:33.399 option we're going to look at exporting
+00:01:35.439 and printing from a report via the
+00:01:37.880 keyword search or the criteria
+00:01:42.159 search so for example if we search a
+00:01:45.960 company in the keyword
+00:01:54.600 search and we pull up the company
+00:01:58.200 view it gives us the company view from
+00:02:01.799 here so now um if we do uh look up here
+00:02:06.920 the print option this print option will
+00:02:09.360 give us company print information so for
+00:02:12.120 example we can print an company report
+00:02:15.400 the contact details inventory inventory
+00:02:19.120 report if you have any notes that your
+00:02:21.200 team has utilized with our collaboration
+00:02:23.800 tools you can print those out as well
+00:02:26.440 and these are all printed out in PDF
+00:02:29.040 form
+00:02:32.000 you can also use the print feature down
+00:02:34.680 below here this gives you the company's
+00:02:37.160 inventory report so from here you can do
+00:02:40.200 an export which would be a simple uh
+00:02:43.280 which would be an Excel so you can do a
+00:02:45.480 simple export here which allows you to
+00:02:48.319 export the information that you see
+00:02:51.840 here and it's pretty straight forward it
+00:02:54.480 shows you that it's going to print all
+00:02:56.080 records in Excel
+00:02:58.760 format and if we click preview we can
+00:03:01.760 see that format here with the
+00:03:03.840 information that is on your Premiere
+00:03:09.640 screen you can also export um the
+00:03:13.040 contact details so if you were looking
+00:03:15.120 to do a mail merge you can export the
+00:03:17.560 contact details as well as the
+00:03:19.200 fractional
+00:03:21.519 export and you can also do export to
+00:03:24.640 Outlook or CRM if you were looking to do
+00:03:26.959 a
+00:03:28.080 mailer and we also offer maintenance
+00:03:30.720 inspection
+00:03:35.120 exports you also have the option of
+00:03:37.560 printing from here and it gives you a
+00:03:39.680 wide range of different print options
+00:03:41.840 and I'll go through these when we look
+00:03:43.400 at a larger report I just wanted to show
+00:03:45.599 it to you really quickly on the company
+00:03:48.000 view so you can see where the um
+00:03:50.840 different options are from
+00:03:54.799 here now if we were to look up a broader
+00:03:57.760 search so for example I wanted to look
+00:03:59.920 up the cj2 market so if I type into the
+00:04:02.799 keyword search the CJ
+00:04:05.040 2s I'm going to pull up this Fleet
+00:04:07.280 report here so this will give us the
+00:04:09.000 entire fleet whether it's for sale or
+00:04:11.360 not it pulls up a generic uh report that
+00:04:14.799 you're probably used to seeing in the
+00:04:17.120 the platform and like I mentioned the
+00:04:19.560 keyword search and criteria search the
+00:04:21.560 reports you're going to generate from
+00:04:23.199 here um are are a little bit different
+00:04:26.520 criteria search will give you more
+00:04:28.199 indepth details reports you can add
+00:04:30.960 multiple aircraft and and territories
+00:04:33.160 into one report but essentially the
+00:04:35.639 print and Export features they have the
+00:04:38.160 same manorisms whether or not you use
+00:04:40.320 the keyword search search or
+00:04:42.560 criteria so we generated a basic search
+00:04:46.520 now from here we're going to go into
+00:04:49.160 export and now I'll talk a little bit
+00:04:51.320 more in detail about these different
+00:04:53.039 exports export is always going to be
+00:04:55.160 Excel whereas print will be PDF so if
+00:04:58.400 you're looking for an Excel cell exports
+00:05:00.680 your your choice simple like I showed
+00:05:03.720 before is going to be pretty
+00:05:05.120 straightforward you're just exporting
+00:05:07.160 what you see on your screen and that
+00:05:09.199 includes any columns that you might have
+00:05:11.680 added or removed within um your manage
+00:05:15.400 columns
+00:05:17.520 field if you were looking to do a mail
+00:05:20.400 merge or marketing or prospecting and
+00:05:23.160 you want to see the contact information
+00:05:25.160 for all of these aircrafts then you're
+00:05:26.840 going to use the mail
+00:05:28.479 merge
+00:05:32.960 First Step always tells you that what
+00:05:34.800 records you're exporting if you had
+00:05:36.639 selected all of these or just picked a
+00:05:39.319 handful of them um always
+00:05:42.479 Excel and then step two and three is
+00:05:45.160 where you're going to see your contact
+00:05:46.560 information so it allows you to select
+00:05:48.960 multiple companies from the owner down
+00:05:51.120 to the broker um then you can choose um
+00:05:55.400 executive Andor The Hanger
+00:05:58.479 location
+00:06:00.319 and then this last step here just asked
+00:06:02.720 if you would like to see the uh all
+00:06:05.199 contacts or the primary contacts in your
+00:06:09.199 export this is a personal preference I
+00:06:11.919 like to personally check this box off
+00:06:14.440 this will show you which contacts are
+00:06:16.560 associated to which
+00:06:19.199 aircraft and then step three is just
+00:06:22.319 indicating what form of contact you'd
+00:06:24.840 like to see email address phone
+00:06:28.400 facts and then if we click
+00:06:31.560 preview again this shows it to you in
+00:06:34.599 Excel it'll give you the company
+00:06:37.280 contacts we selected executive anhanger
+00:06:40.319 so it'll tell you the type of contact
+00:06:42.800 their role with the
+00:06:46.639 organization and then if we scroll over
+00:06:49.479 a little bit more you'll start to see
+00:06:51.400 your contact information we had just
+00:06:53.680 kept it at email so you'll see just the
+00:06:55.759 email for them and then by checking that
+00:06:58.960 box we now have the aircraft that each
+00:07:02.080 contact is associated
+00:07:07.759 with those are the two primary um
+00:07:10.800 exporting features but we do offer some
+00:07:13.199 additional exports so we do offer
+00:07:15.520 fractional exports so you'll be able to
+00:07:17.680 see the aircraft that are
+00:07:21.199 available and then this will show you
+00:07:23.360 the fractional
+00:07:24.720 owner if you scroll down a little bit
+00:07:27.199 more it shows some more dates the share
+00:07:31.599 date as well as the contact for each
+00:07:40.960 share then we also have Fleet report um
+00:07:44.800 this is a really good tool if you're
+00:07:47.000 using if you're building a report with
+00:07:49.080 the criteria search Advan list Builder
+00:07:52.159 and you added multiple make some models
+00:07:54.680 into your report this Fleet report
+00:07:58.080 export will will show you a breakdown of
+00:08:01.639 those makes a models so right now we
+00:08:03.639 just ran a report of a cj2 but if we had
+00:08:06.240 a bigger report that showed a CJ CJ 2s
+00:08:10.520 uh CJ 1's different types of mies and
+00:08:13.520 models it'll tell you the break down
+00:08:15.639 total in production how many are active
+00:08:18.680 and then if I scroll over a little bit
+00:08:20.599 further it'll tell tell you how many out
+00:08:23.360 of that fleeter for sale
+00:08:28.240 lease
+00:08:32.320 and again this all exports into
+00:08:39.760 Excel and then we do have this option
+00:08:42.399 here export to Outlook CRM so this is if
+00:08:46.160 you're using um Outlook to do a mass
+00:08:49.360 mailer or importing into your internal
+00:08:51.920 CRM this kind of is very much so similar
+00:08:55.240 like the mail merge but it combines all
+00:08:57.120 the steps into one uh you're going to
+00:09:00.040 select what companies you're interested
+00:09:02.000 in seeing uh if you want the contacts
+00:09:04.680 for the executive Andor Hangar the
+00:09:07.440 primary contacts or the uh all contacts
+00:09:11.399 and again the aircraft that there each
+00:09:14.120 contact is associated
+00:09:16.640 with and then this one doesn't have a
+00:09:19.279 preview but I'll I can show you the
+00:09:28.120 export
+00:09:34.360 so this gives you the export of that
+00:09:36.760 contact information for your CRM or
+00:09:40.760 Outlook um export
+00:09:48.880 mailer and then we have another feature
+00:09:51.959 um the maintenance inspection
+00:09:55.360 report this one for some reason does not
+00:09:58.399 default to to all records Jessica
+00:10:00.880 actually had to help me out with this
+00:10:02.120 one today because I'm so used to just
+00:10:04.279 clicking next or continue but um this
+00:10:07.839 one is the only one where you have to
+00:10:09.320 click on all records and then if we
+00:10:12.399 click on preview it'll show you the
+00:10:14.760 aircraft that have note we have noted or
+00:10:17.640 indicated some type of inspection and
+00:10:20.560 the complete completed date
+00:10:28.040 date so that was the export and like I
+00:10:30.839 said that was using the keyword search
+00:10:32.800 but it also applies with the criteria
+00:10:35.040 search so the export will have all the
+00:10:37.079 same features always in Excel um if you
+00:10:40.519 were looking for something more polished
+00:10:42.600 if you wanted to present to a prospect
+00:10:44.880 or a client um and you wanted to do a
+00:10:48.200 PDF we do have that option as well PDFs
+00:10:51.240 will be with our print feature and along
+00:10:53.680 with that you'll be able to add your
+00:10:55.800 company logo to the PDFs so right right
+00:10:59.240 now if you try to do a print uh or a
+00:11:02.360 preview of a PDF and you're not seeing
+00:11:04.360 your company logo just give us a call
+00:11:06.680 and we can help your primary contact add
+00:11:09.519 the logo to your amset subscription and
+00:11:12.480 that would add it to everybody's um
+00:11:15.240 loging
+00:11:16.920 credentials so moving on to the print
+00:11:20.440 feature there's quite a quite a few
+00:11:23.040 reports under here but they're they're
+00:11:25.000 pretty um interesting once you get into
+00:11:27.240 them so list of aircraft print out is
+00:11:29.639 going to give you uh this full list of
+00:11:32.519 these aircraft what you see here similar
+00:11:34.680 to the simple export in the export
+00:11:37.760 feature aircraft contact report is going
+00:11:40.639 to give you a list of the contacts and
+00:11:42.839 PDF form and then we have this full
+00:11:45.720 aircraft
+00:11:48.200 report I'm in preview so it won't show
+00:11:50.880 us all 234 aircraft it'll just give us
+00:11:53.839 the first two in preview um this
+00:11:56.680 primarily is where your logo would go it
+00:11:58.680 gives you the full aircraft report for
+00:12:01.160 each aircraft without having to go into
+00:12:03.240 them individually and doing this print
+00:12:05.440 export process so it gives you the
+00:12:07.800 summary of the aircraft the full contact
+00:12:12.399 information if we scroll down you start
+00:12:14.680 to see this in the
+00:12:17.760 specs and then all the way towards the
+00:12:20.120 bottom you'll get the transaction
+00:12:23.880 history so all the information that you
+00:12:26.320 would view on an aircraft you can now
+00:12:28.560 EXP report that for all of the aircraft
+00:12:31.000 within or I should say you could print
+00:12:33.320 it now for all of the aircraft within
+00:12:35.560 this this report instead of going into
+00:12:37.560 them
+00:12:41.720 individually now if the full report is a
+00:12:44.199 little too much it has a little too much
+00:12:46.000 sensitive information if you're
+00:12:47.680 presenting to a a prospect or or a lead
+00:12:51.519 um if you want to to have a lighter
+00:12:53.800 version of the full report then you you
+00:12:56.199 would use the aircraft summary report
+00:12:59.079 this is going to take out some of the um
+00:13:01.880 additional contact information it just
+00:13:03.920 give you the key contacts and then it'll
+00:13:06.120 also removes the transactions so if I
+00:13:09.399 look at this aircraft here it gives me
+00:13:11.240 all the aircraft summary info it has my
+00:13:13.959 key
+00:13:15.959 contact and then I have my full specs
+00:13:18.800 that are available and that's really it
+00:13:21.480 you don't have the uh transaction
+00:13:23.839 history on any of the
+00:13:27.760 aircraft
+00:13:30.959 moving along we have the aircraft
+00:13:33.000 summary report so this one along with
+00:13:36.079 this Market scan report are kind of like
+00:13:38.440 little cheat sheets on an aircraft like
+00:13:40.639 if you remember from going to school or
+00:13:43.040 if you have any kids that currently are
+00:13:44.519 in school and they have to study for a
+00:13:46.560 test and they make a note card or if
+00:13:48.760 they're allowed to have a note card on a
+00:13:50.680 test you would include all the pertinent
+00:13:52.800 information you need for that test
+00:13:54.959 that's what this um this report is the
+00:13:57.920 summary report it will give you a quick
+00:13:59.959 summary of each given
+00:14:13.920 aircraft there it is so it'll give you
+00:14:16.600 like a little little synopsis on this
+00:14:18.959 aircraft from the status of the aircraft
+00:14:22.160 if it was for sale the the price um the
+00:14:25.480 the year total time certification
+00:14:28.920 pertinent avionics as well as some
+00:14:31.480 compliance and interior exterior
+00:14:37.759 notes and if we jump down to the market
+00:14:40.519 scan it's a little bit of the same
+00:14:42.399 information but it elaborates more on
+00:14:45.800 the um the notes section and engine
+00:14:49.120 times and
+00:14:50.639 programs so this is really great
+00:14:52.839 especially if you have a sales team
+00:14:54.519 that's newer to the industry and they
+00:14:56.320 need a bit of a crash course on on uh if
+00:14:59.720 you send this report to your sales team
+00:15:01.880 or your marketing team you can they can
+00:15:04.839 also have the option of printing out
+00:15:06.759 those little quick quick tidbits on the
+00:15:09.199 each
+00:15:11.959 aircraft aircraft note export so if your
+00:15:15.000 team is utilizing these collaboration
+00:15:17.680 tools that you see in our service if
+00:15:20.199 you're familiar with them you'll know
+00:15:21.600 you see them within the reports you see
+00:15:24.160 them on aircraft company and contacts
+00:15:27.399 and within those collabor a tools you
+00:15:29.639 have the ability of adding notes to any
+00:15:33.680 of the aircraft so what happens is um
+00:15:37.240 this if you run a report and you want to
+00:15:39.360 see any notes that you have on your
+00:15:41.079 report you can now um run a full report
+00:15:44.759 on all those notes within a within your
+00:15:47.600 your
+00:15:48.920 list aircraft photos you can add all the
+00:15:52.639 photos some of them based on whatever
+00:15:54.279 you're trying to run we went over the
+00:15:56.880 market scan report and then we have this
+00:15:59.600 manage my print templates so if you're
+00:16:02.199 not seeing something here or one report
+00:16:04.880 has too much or one report doesn't have
+00:16:07.079 enough or you just have a very specific
+00:16:10.560 report that you want to create for a
+00:16:12.319 prospect or client or for your team you
+00:16:15.120 can create your own report so on the
+00:16:18.319 leand side here are all the different
+00:16:20.519 categories or topics that you can add to
+00:16:23.519 a
+00:16:24.440 report and then you save the
+00:16:26.959 template and then it'll put it in your
+00:16:29.360 dropdown here so that you have that
+00:16:32.759 option for for this current report to
+00:16:35.040 run or for future reports you can you
+00:16:37.319 can run
+00:16:42.519 that so now going back to the we did the
+00:16:45.720 company view um briefly but now that
+00:16:48.440 we've explained these features the
+00:16:50.480 exporting and printing apply to the
+00:16:52.399 company but I do want to show you the
+00:16:54.639 aircraft view so if we pull
+00:16:57.480 up any given aircraft for sale or not
+00:17:00.600 for sale we can now click on that
+00:17:03.000 aircraft through keyword
+00:17:05.039 search and we have the printing and
+00:17:07.400 exporting buttons here the exporting is
+00:17:10.359 going to look a little different on the
+00:17:11.720 aircraft view it's going to allow you to
+00:17:14.280 export the aircraft valuation so if any
+00:17:17.480 anyone is utilizing um the aircraft
+00:17:20.000 valuation tool you'll know that you have
+00:17:22.199 access through through this little icon
+00:17:25.000 here so if you're in here you also have
+00:17:28.079 the ability to export this data that you
+00:17:31.160 see on your right hand side so that's
+00:17:34.280 what that's going to do it's going to
+00:17:35.600 allow you to print this uh base value
+00:17:39.160 data in a PDF it also let you allows you
+00:17:42.880 to export it into Excel so there's two
+00:17:45.799 places where you can do that on the
+00:17:47.200 aircraft view once you're in the
+00:17:49.320 evaluation tool you don't have to jump
+00:17:51.440 back out to export it or print it you
+00:17:53.360 can do it within the
+00:17:55.880 service or if you just want to export it
+00:17:58.960 here without opening the window you can
+00:18:00.520 do that as
+00:18:04.720 well and then print we have uh different
+00:18:08.280 options here you can uh print the full
+00:18:11.240 aircraft view summary um the transaction
+00:18:14.559 histories and this will apply
+00:18:16.600 specifically to this aircraft alone that
+00:18:19.159 you're on you'll also have the option
+00:18:21.880 here to export in the pdf version the
+00:18:24.799 aircraft valuation tool as well as your
+00:18:27.960 notes and aircraft
+00:18:30.880 photos and then we have this Market scan
+00:18:38.400 report gives you a little bit more in
+00:18:41.039 depth uh information on the uh the
+00:18:43.960 aircraft in interior exterior
+00:18:50.520 notes so that was printing and exporting
+00:18:53.640 via the keyword search criteria search
+00:18:56.440 when you're on a company view as well as
+00:18:58.600 an aircraft view um now we're going to
+00:19:02.760 take a look at uh these buckets over
+00:19:06.000 here so there's a couple ways to kind of
+00:19:08.799 print as well and export in here we'll
+00:19:12.400 the dashboard so right now I have my
+00:19:15.080 dashboard set up this is ideally what I
+00:19:18.080 like to look at on a daily basis yours
+00:19:20.080 might look a little different but I'm
+00:19:21.640 sure most of you have the save searches
+00:19:23.880 on your dashboard um the printing and
+00:19:27.400 exporting isn't as visible here only
+00:19:30.000 because you have to actually click on a
+00:19:32.760 report so if you have this saved report
+00:19:35.280 here I have this g450 report I want to
+00:19:38.280 print it or export it but I don't want
+00:19:40.120 to have to go back in here and type in
+00:19:42.559 g450 I can just click on my saved
+00:19:46.480 report it loads it here and everything
+00:19:49.200 we went over on the exporting and
+00:19:51.159 printing applies within here it's just a
+00:19:54.159 quicker way to get to your report if
+00:19:56.919 you're utilizing the favorites from the
+00:19:59.880 collaboration tools you'll have a list
+00:20:02.440 of aircraft company contacts and markets
+00:20:05.200 in your favorites this again just gives
+00:20:07.480 you quick access to any of those fields
+00:20:10.679 and then everything we discussed applies
+00:20:13.280 here so for example if I wanted to go to
+00:20:16.159 this company here I can now see it in my
+00:20:19.280 favorites without having to search
+00:20:20.760 through it in keyword search I can then
+00:20:23.520 go ahead and use the printing features
+00:20:25.919 we discussed in here as as well as down
+00:20:33.039 here another bucket that is helpful um
+00:20:36.720 is this market
+00:20:38.919 bucket this is our Market summary report
+00:20:41.799 so this applies to Any Given aircraft
+00:20:44.200 that amstat covers you can um either
+00:20:47.480 type it in here so if we typed in the
+00:20:49.600 Bell 206b we could click on market
+00:20:52.240 report or we could just go to the market
+00:20:54.600 button and we can search any give and
+00:20:58.360 make model
+00:21:03.799 here and it gives you the market summary
+00:21:07.159 report if this is something that's
+00:21:09.400 useful to your team um it's useful to
+00:21:12.480 clients to present this to them or if
+00:21:15.000 you have um uh new members of the team
+00:21:17.679 and you want them to get introduced
+00:21:19.520 better to the aviation industry and know
+00:21:21.720 what their their territories are or even
+00:21:23.840 if you have a new territory um you can
+00:21:26.360 always print this out and and again here
+00:21:28.840 it'll give you the full report the
+00:21:30.799 summary report takes out the recent
+00:21:33.360 transactions and
+00:21:36.320 changes and then these are some of the
+00:21:39.000 um productivity tools here the
+00:21:40.760 performance spec operating costs and all
+00:21:43.840 our printing options offer the manage my
+00:21:46.240 print
+00:21:49.600 template and then we're going to take a
+00:21:51.480 look at stat
+00:21:53.039 pack so once you're in stat pack you can
+00:21:56.880 um run a a range of reports distribution
+00:22:00.679 by age geography for sale um for sale
+00:22:04.679 history and sold if we go just to
+00:22:07.360 geography distribution by geography and
+00:22:09.679 keep it simple we'll do
+00:22:12.799 jets it gives you uh a visual as well as
+00:22:16.559 a graph here or chart and you can export
+00:22:20.480 this into Excel and this information
+00:22:23.320 here the the graph you can export into
+00:22:26.600 or you can print in PDF
+00:22:32.640 for and then there's certain
+00:22:34.480 productivity tools that you can also
+00:22:37.200 export that data and we touched base a
+00:22:39.279 little bit when we looked at the market
+00:22:41.880 we had some of those in there but if we
+00:22:43.600 go over to
+00:22:44.880 tools you can see
+00:22:47.520 here this section is our has offers the
+00:22:50.679 model comparison tool the operating cost
+00:22:53.720 calculator calculator and the spec
+00:22:56.640 comparison tool so once you run any of
+00:22:58.840 these
+00:22:59.760 reports you can then go ahead and Export
+00:23:02.760 it and print it so this one I did a
+00:23:04.600 model comparison and I started to enter
+00:23:07.080 in um the citation
+00:23:10.159 cj2 and then you'll see up here the
+00:23:12.480 export gives this exact information into
+00:23:15.919 Excel while
+00:23:17.480 this this print gives it to you and uh
+00:23:21.360 the PDF
+00:23:26.880 form so with with that that's that's
+00:23:30.240 pretty much all the different spots
+00:23:31.960 where you can print and Export the most
+00:23:34.600 popular features are definitely when you
+00:23:36.679 run a report in keyword search or
+00:23:38.520 criteria search and you're interested in
+00:23:41.159 doing the uh simple export or mail merge
+00:23:44.320 those are the most common exports we do
+00:23:46.760 have um pres presentations getting
+00:23:49.520 yourself ready for client meetings or
+00:23:51.520 prospects or just even presenting for
+00:23:53.440 your team the print feature is all
+00:23:55.960 always really helpful including your
+00:23:58.640 company logo in there is is a nice touch
+00:24:01.039 as well um but that's that's that so
+00:24:05.679 this completes our uh November webinar
+00:24:09.840 series Jessica do we have any
+00:24:14.400 questions um there were no questions
+00:24:16.640 that came in through the chat no okay
+00:24:19.919 all right if anybody has any questions
+00:24:21.960 now feel free to ask
+00:24:26.799 them all right um like I mentioned uh
+00:24:31.279 this webinar was done with our Amat
+00:24:33.640 Premiere plus service but if you're a
+00:24:35.799 connect plus subscriber and like to
+00:24:38.200 learn more about Premiere plus feel free
+00:24:40.399 to reach out to myself and we can set up
+00:24:42.440 a full demo and we can answer any
+00:24:45.039 additional questions you might
+00:24:47.720 have um with that we hope to see
+00:24:50.600 everyone at our December webinar where
+00:24:53.559 we will be discussing the dashboard
+00:24:56.760 utilization
+00:24:58.320 how to um set up your dashboard how to
+00:25:01.720 understand the widgets and how to modify
+00:25:03.840 your dashboard as your your change your
+00:25:07.440 your needs change within your
+00:25:09.679 organization so thank you everyone and
+00:25:12.760 uh we look forward to seeing you
+00:25:15.799 then thanks Sonia thanks everyone for
+00:25:18.159 joining thank
+00:25:26.679 you

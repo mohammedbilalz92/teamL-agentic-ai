@@ -1,0 +1,200 @@
+# tactiq.io free youtube transcript
+# No title found
+# https://www.youtube.com/watch/pWY_wEpqK1M
+
+00:00:00.280 the broadcast is now starting all
+00:00:02.159 attendees are in listen only
+00:00:04.600 mode thank you for joining us today my
+00:00:07.240 name is Sonia Burke and I'm the customer
+00:00:09.360 service manager with
+00:00:11.599 amstat Welcome to our amstat client
+00:00:15.200 webinar series each webinar is designed
+00:00:18.000 to Showcase one specific feature of the
+00:00:20.720 amsta premiere and connect Services we
+00:00:23.640 will explain how to utilize that feature
+00:00:25.880 to get the most out of the service and
+00:00:28.439 your time feel free to ask questions at
+00:00:31.320 the end of the webinar via the chat
+00:00:34.440 feature last webinar we explored the
+00:00:37.440 benefits of creating a search via the
+00:00:40.280 criteria search advanc list Builder this
+00:00:43.399 webinar will take that a bit further and
+00:00:46.760 show you how to utilize the sav Search
+00:00:49.399 widget within your dashboard but first
+00:00:52.559 let's discuss the benefits of saving
+00:00:54.840 your
+00:00:58.079 searches saving your search es provides
+00:01:01.320 an automated update to your your
+00:01:04.839 previously generated reports grouping it
+00:01:08.320 also groups recently added and removed
+00:01:10.799 aircraft within those reports you're
+00:01:13.720 able to export aircraft contacts and
+00:01:17.280 contacts for recently added Andor
+00:01:20.360 removed
+00:01:21.640 aircraft you can also use your saved
+00:01:25.079 searches as a sales to Tool and Lead
+00:01:28.840 generator
+00:01:31.759 so now we're going to jump into the
+00:01:38.079 platform I'm going to log in through
+00:01:40.960 Premiere but this service can be
+00:01:44.040 utilized as well or this feature can be
+00:01:46.520 utilized within your connect application
+00:01:49.240 as
+00:01:49.960 well so here's Premiere I'm going to uh
+00:01:54.560 actually let's take it a step back so
+00:01:57.320 from from here we have the dash board so
+00:02:00.360 you can see I already have my widgets in
+00:02:02.960 place I don't see a saved Search widget
+00:02:06.079 and I know within my time with amsat
+00:02:09.479 I've created a couple of reports and
+00:02:11.959 I've saved them when I use the criteria
+00:02:14.120 search or the keyword search I've
+00:02:15.680 definitely save them but I don't know
+00:02:17.000 how to access them so what we're going
+00:02:19.360 to do here is we're going to go over to
+00:02:22.239 this plus button here to add a
+00:02:26.040 widget when I select that my first
+00:02:28.640 option is save search es so I'm going to
+00:02:31.120 click on Save
+00:02:34.080 searches and now you can see the save
+00:02:36.560 Search widget is on my dashboard and
+00:02:39.440 again your dashboard is customizable so
+00:02:41.800 you can move this widget around you can
+00:02:44.400 have have the save searches as your only
+00:02:46.560 widget you can have it as a multiple
+00:02:48.400 widgets on on your dashboard and within
+00:02:51.959 the save Search widget you can add you
+00:02:54.840 can save about 20 searches that you've
+00:02:58.440 or reports that you've gener generated
+00:03:00.319 within your your
+00:03:03.680 service now that this is done loading
+00:03:06.680 you can see that I have my searches by
+00:03:09.360 name and then you can click on the title
+00:03:12.840 of your search and that will pull up the
+00:03:14.840 entire report um but then you also have
+00:03:18.120 this plus and minus numbers here this
+00:03:21.879 indicates how many changes of occurred
+00:03:24.239 since you last ran your
+00:03:26.480 report so if I were to click on just
+00:03:29.879 these changes
+00:03:31.680 here it'll pull up the additional
+00:03:34.519 aircraft that have entered my territory
+00:03:37.319 and the ones that have left my
+00:03:39.439 territory so essentially these these
+00:03:42.560 additions are new prospects for me to
+00:03:44.720 reach out to regarding my services my
+00:03:47.319 products these are all new sales
+00:03:49.599 prospects for me while these have left
+00:03:51.840 my
+00:03:53.239 territory from here you can click on
+00:03:56.400 each individual aircraft and pull up
+00:03:58.480 that spec information and see the full
+00:04:00.680 contact information the aircraft or
+00:04:02.560 sales status if that's relevant to you
+00:04:05.799 you can also click on go to results
+00:04:11.400 page once you have the results page
+00:04:13.760 pulled up it pulls up the standard
+00:04:15.879 report that you're used to seeing and
+00:04:17.839 when you generate a report through
+00:04:19.358 criteria search or if you generated it
+00:04:21.560 through keyword
+00:04:24.560 search from here you see the report as a
+00:04:29.000 whole so you're not seeing the changes
+00:04:31.800 that occurred which is is fine if you're
+00:04:34.919 looking at a smaller report but when you
+00:04:37.039 have a larger report like this one it's
+00:04:39.680 going to be hard to navigate those
+00:04:41.720 changes or spot them off right off the
+00:04:44.199 bat normally if you're not utilizing the
+00:04:47.440 saved uh searches widget on your
+00:04:50.000 dashboard from here many would just
+00:04:52.240 export this and compare it to the last
+00:04:54.639 report that you ran but this is a lot
+00:04:57.120 easier to do uh the save searches
+00:05:00.360 because now from here we have the report
+00:05:02.320 in its entirety but if I go over to this
+00:05:05.520 view recurrent
+00:05:07.720 results click on the
+00:05:10.520 dropdown view current results is going
+00:05:12.880 to be the entire report but then you can
+00:05:16.120 add you can switch over to view recently
+00:05:18.720 added or removed so if I click on view
+00:05:22.400 recently
+00:05:24.880 added I can see those changes that were
+00:05:27.639 indicated when I first saw the um save
+00:05:31.120 search within the widget so this is the
+00:05:33.919 plus aircraft that have entered my
+00:05:37.960 territory and then view view recently
+00:05:41.840 removed shows me the minus aircraft
+00:05:44.720 these were the ones that left my
+00:05:46.880 territory so it really gives you the
+00:05:48.919 opportunity to drill down those changes
+00:05:51.000 so if you are looking to prospect the
+00:05:53.160 Recently Added aircraft or companies or
+00:05:56.160 contacts you can then just view the
+00:05:58.400 recently added and everything that you
+00:06:00.840 would normally do when you're running
+00:06:02.400 your own report would applies here you
+00:06:05.400 can now export the report as is you can
+00:06:09.599 manage the columns and add or remove
+00:06:12.120 these
+00:06:13.479 columns or you can export just the
+00:06:16.160 contact details for these new aircraft
+00:06:19.000 in your
+00:06:21.120 territory say for example you had run
+00:06:24.240 this report a few months ago there's
+00:06:26.479 been some changes to your territory
+00:06:28.800 instead of running this report and uh
+00:06:31.960 modifying it you can just click on
+00:06:33.880 modify criteria
+00:06:35.919 search and it brings up your previous
+00:06:38.360 selection here and then you can add more
+00:06:41.800 uh more specific
+00:06:44.240 details as
+00:06:49.319 well going back to the
+00:06:52.280 widget some additional features on the
+00:06:55.199 save Search widget you can change the
+00:06:58.199 title of your report
+00:07:00.240 with this edit text
+00:07:04.240 button and then you can also remove save
+00:07:07.360 searches so for example I was working on
+00:07:10.000 a a short-term project let's say this
+00:07:12.479 jet USA management report this wasn't
+00:07:16.000 something I plan on working on long term
+00:07:18.400 and I I no longer need to see the
+00:07:20.960 updates to this Market it's not relevant
+00:07:22.840 to me I don't want to take up my uh
+00:07:26.280 space within my save searches with this
+00:07:28.639 so I can go ahead and delete this
+00:07:32.639 report and now I just have the relevant
+00:07:35.560 reports that I need to see in my save
+00:07:43.240 searches so that is a the basic overview
+00:07:48.000 of the um benefits of having the save
+00:07:51.879 searches on your dashboard with the save
+00:07:54.720 Search
+00:07:57.800 widget thank you all for your time um if
+00:08:01.560 you have any questions now feel free to
+00:08:04.120 message in the chat
+00:08:06.680 feature if you are a amstat Connect
+00:08:10.240 customer and there is something that you
+00:08:13.000 saw Within These slides feel free to
+00:08:15.639 reach out to me directly for an amstep
+00:08:17.840 Premiere trial or
+00:08:20.120 demo any
+00:08:24.960 questions all right it looks like there
+00:08:26.919 are no questions at this time
+00:08:29.879 um what's next so the next amstat
+00:08:32.919 webinar will be held on November 6th and
+00:08:35.880 the topics of discussion will be
+00:08:38.080 exporting and printing we'll go over how
+00:08:41.080 to export reports contacts company
+00:08:44.959 fleets aircraft and Market summary
+00:08:49.720 reports feel free to reach out to myself
+00:08:52.959 and my colleague Jessica with any
+00:08:54.920 questions or if you'd like any to
+00:08:57.240 schedule any private demo sessions or if
+00:08:59.560 you have any questions you'd like to ask
+00:09:01.600 in private feel free to reach out to
+00:09:03.920 either one of us we look forward to
+00:09:06.440 seeing everyone at the next
+00:09:11.640 webinar

@@ -1,0 +1,31 @@
+# tactiq.io free youtube transcript
+# No title found
+# https://www.youtube.com/watch/On1mJnmaLS4
+
+00:00:03.280 Premier Plus subscribers can now record
+00:00:05.279 sold price information with each
+00:00:06.960 transaction. These sold prices are
+00:00:08.800 private to your subscription and are not
+00:00:10.639 shared with other Amstat users. To enter
+00:00:13.040 sold price information, go to the
+00:00:14.960 transaction history at the bottom of the
+00:00:16.400 aircraft specification page. Each
+00:00:19.199 transaction will have an icon to let you
+00:00:21.119 add or edit a private sold price. Click
+00:00:24.160 the icon, enter your sold price,
+00:00:28.400 and click save.
+00:00:30.080 You also have the option to share sold
+00:00:32.000 price information with AMSAT. Shared
+00:00:34.079 sold price information is only used in
+00:00:36.000 an aggregated manner to refine the
+00:00:37.760 aircraft valuation tool algorithm. As a
+00:00:40.079 Premier Plus subscriber, you already
+00:00:41.680 have access to this powerful tool. The
+00:00:44.399 sold price information you've entered is
+00:00:46.239 also available in your search results.
+00:00:48.480 For transaction searches,
+00:00:51.280 click on manage columns and select the
+00:00:53.440 fields from the transaction details.
+00:00:57.920 For aircraft criteria searches, you'll
+00:01:00.480 find this under the last transaction
+00:01:02.079 details.

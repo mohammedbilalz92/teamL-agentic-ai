@@ -1,0 +1,473 @@
+# tactiq.io free youtube transcript
+# No title found
+# https://www.youtube.com/watch/y7bX7FlLnkc
+
+00:00:00.240 the broadcast is now starting all
+00:00:02.120 attendees are in listen only
+00:00:04.879 mode hello thank you uh for joining us
+00:00:08.960 today hope everyone enjoyed their
+00:00:12.160 weekends for those of you attending who
+00:00:15.599 have attended in the past welcome back
+00:00:18.039 and for new attendees thank you for
+00:00:20.400 joining my name is Sonia Burke I'm the
+00:00:23.560 customer service manager here at amstad
+00:00:26.240 and I'm joined today by my colleague
+00:00:28.519 Jessica Simmons customer cust service
+00:00:32.800 specialist
+00:00:34.760 hello we like to keep these webinars
+00:00:37.960 short and sweet and focus on one feature
+00:00:40.879 of the service at a time Jessica will be
+00:00:44.079 Fielding any questions via the chat
+00:00:46.719 feature and as always if anyone would
+00:00:49.559 like to schedule group or individual
+00:00:51.600 training sessions please don't hesitate
+00:00:54.160 to reach out to either of
+00:00:56.600 us today's topic is how to make the most
+00:00:59.960 most of your collaboration
+00:01:05.799 tools we'll discuss the benefits of
+00:01:08.520 using them um as an individual on an
+00:01:12.720 individual level as well as on a team
+00:01:15.479 level the collaboration tools can be
+00:01:19.640 accessed via a reports uh as well as a
+00:01:23.040 company view a contact view you can also
+00:01:26.600 view some of the collaboration tool
+00:01:29.159 tools Fe features on your dashboard and
+00:01:31.720 collectively via your tools
+00:01:34.360 bucket they're used to create easy
+00:01:36.799 access points to pertinent data uh
+00:01:39.840 relevant to you individually or
+00:01:42.079 collectively to your to your team um
+00:01:45.479 we'll we'll dive a little bit deeper
+00:01:47.680 into where to locate them how to use
+00:01:50.399 them and how to manage them right now
+00:01:53.079 we'll jump right into the
+00:01:56.200 service the first example we'll go over
+00:01:59.039 is how toess access the collaboration
+00:02:01.039 tools via a
+00:02:03.079 report so right now I'm going to pull up
+00:02:05.880 just for example a
+00:02:07.759 cj2 and I'm going to click on this full
+00:02:10.639 Fleet
+00:02:13.640 report and what this does is pulls up
+00:02:16.519 the report of all the CJ 2s
+00:02:19.480 worldwide into one easy access report
+00:02:23.519 here now you'll notice in front of the
+00:02:26.200 make model serial you'll have these
+00:02:28.599 icons these are
+00:02:30.360 um some examples of our collaboration
+00:02:33.480 tools and they are listed on each
+00:02:36.720 individual aircraft um you can see them
+00:02:39.879 all in one screenshot here because we're
+00:02:41.760 viewing it from a report you'll notice
+00:02:44.519 when they're grade out like this you're
+00:02:46.319 currently not utilizing them but if you
+00:02:49.560 look at this example here you some of
+00:02:51.840 them are highlighted the star is red
+00:02:53.920 this just indicates that you're
+00:02:55.319 currently using the collaboration tools
+00:02:57.800 on this specific aircraft within this
+00:03:01.680 report the star is going to indicate
+00:03:04.360 that you've marked this as a favorite
+00:03:07.360 aircraft the notepad and pencil is going
+00:03:11.200 to be the edit feature so once you click
+00:03:14.000 on that it opens up this window specific
+00:03:16.720 to the aircraft highlighted within your
+00:03:19.319 report so it gives you a breakdown of
+00:03:21.799 all the different fields within the
+00:03:23.519 avionic section of the aircraft the
+00:03:26.120 general aircraft
+00:03:27.799 information um and it allow ows you to
+00:03:30.519 make edits to that specific aircraft so
+00:03:33.720 for example this aircraft is currently
+00:03:35.720 for sale it's a
+00:03:37.720 2002 and um it looks like I've already
+00:03:40.840 made an edit to this aircraft and I've
+00:03:43.599 edited the time so uh I'm sorry the
+00:03:47.120 price this little circle here shows you
+00:03:50.599 uh lets you view the edit history so if
+00:03:52.720 I click on that it'll tell you when this
+00:03:55.560 aircraft was edited if I have um if I've
+00:03:58.920 done it or if it's team member has done
+00:04:00.560 it you can see that and it shows you the
+00:04:03.040 edits that it went from and
+00:04:07.560 to if you decide that you want to
+00:04:10.120 eliminate the edits that you've done you
+00:04:12.159 just Mark the X here and it'll revert
+00:04:14.799 back to the original uh field that was
+00:04:17.680 enter entered by
+00:04:23.240 amstat then we have here this uh
+00:04:26.120 paperclip this allows you to add
+00:04:28.720 attachments to to Any Given Aircraft
+00:04:31.440 company or contact and it gives you a
+00:04:33.759 wide range of formats so if you have any
+00:04:36.680 um information that you have on your
+00:04:39.199 computer or anything that you would like
+00:04:41.440 to upload and keep it in one file with
+00:04:44.560 your amstat data you can do that with
+00:04:46.919 the upload button for the
+00:04:53.600 attachments next we have this dual paper
+00:04:56.639 here this allows you to create notes on
+00:04:59.560 On Any Given aircraft um this specific
+00:05:03.039 aircraft is for sale so you have the
+00:05:05.280 ability not only to add a note on the um
+00:05:08.199 specific serial number aircraft but you
+00:05:11.039 can also add notes to the broker owner
+00:05:14.080 this aircraft is also has a charter
+00:05:16.199 company attached to it so you can add
+00:05:18.319 notes to that charter company and it
+00:05:21.280 also lets you view any previous notes
+00:05:23.800 that you have so for
+00:05:26.280 example this note was highlighted which
+00:05:28.759 means there's an existing note on it
+00:05:30.560 it's highlighted what category my note
+00:05:33.120 is in and it'll show you the note here
+00:05:36.680 once you have a not in place you can
+00:05:39.479 choose to edit it with this button here
+00:05:41.759 or delete
+00:05:43.240 it editing it will'll just put it up
+00:05:45.759 into the window screen and then you can
+00:05:47.840 save or
+00:05:52.759 cancel then moving on to the engagement
+00:05:55.680 folder so you can create an engagement
+00:05:58.319 folder on any give an aircraft company
+00:06:00.720 or contact and this allows you to make a
+00:06:04.120 a little folder think of like a manila
+00:06:06.919 folder where you add documents to a
+00:06:09.080 specific topic or anything you're
+00:06:10.880 working on so for example I have this
+00:06:13.800 folder this engagement folder for
+00:06:16.080 Jessica so in this folder I can add any
+00:06:19.199 information that I would like her to see
+00:06:22.800 um regarding this specific file or
+00:06:25.520 something we could be working
+00:06:27.880 on and the drop down it gives you all
+00:06:30.560 your additional folders here I've added
+00:06:33.919 this aircraft to this Jessica's
+00:06:35.800 engagement folder as well as the webinar
+00:06:38.039 for today uh as well as for the webinar
+00:06:45.599 today then we have this
+00:06:48.479 reminder so this allows you to create a
+00:06:51.360 reminder for yourself anywhere in the
+00:06:53.880 future you can add uh a little note to
+00:06:57.039 that as well with what you need to do
+00:07:00.000 you can mark it as completed you can
+00:07:02.080 remove it and save
+00:07:05.680 it then we have this um icon here this
+00:07:09.080 is specifically for the aircraft you
+00:07:11.360 won't see this on the contacts or
+00:07:13.560 companies this allows you to exclude any
+00:07:16.919 highlighted given um aircraft um from
+00:07:20.560 your report so if you have any outliers
+00:07:23.520 that are making your numbers a little
+00:07:24.879 wonky you can take that out or if it's
+00:07:27.039 something that's not in your territory
+00:07:28.720 you can remove that from your statistics
+00:07:30.639 as
+00:07:32.840 well so that's how the collaboration
+00:07:36.080 tools work on um pulling up an aircraft
+00:07:39.400 within a report um this this is a nice
+00:07:42.879 feature because it puts all of the CJ
+00:07:45.000 tws or whatever type of report you're
+00:07:46.680 running into one place um but if you
+00:07:50.120 wanted to look at uh a specific make
+00:07:53.360 model a little bit more in depth you can
+00:07:55.840 um type in the tail number into keyword
+00:07:58.120 search say since we're already on this
+00:08:00.840 example I'll click on this cj2
+00:08:04.919 here and what this does is it pulls up
+00:08:08.080 the aircraft view um your collaboration
+00:08:11.240 tools are now located up here because
+00:08:13.879 we've already been utilizing them it'll
+00:08:16.280 show up as uh color versus black and
+00:08:19.120 white or grayed out um and you can see
+00:08:21.520 that those collaboration tools stayed in
+00:08:23.520 place they transferred from one screen
+00:08:25.240 to another all your data is in the same
+00:08:28.120 spots um another feature here is you
+00:08:31.759 you'll notice the little asteris next to
+00:08:34.958 the price and then if you hover over
+00:08:38.039 that it'll show you that that little
+00:08:40.880 asterisk indicates that there's been an
+00:08:42.919 edit to the total time I'm sorry the
+00:08:45.880 price on this aircraft and it'll if you
+00:08:48.040 hover over it it'll show you what that
+00:08:50.839 change is when it was done and by who on
+00:08:53.720 your team it was made
+00:08:58.200 by another thing on this screen too and
+00:09:01.760 this actually does apply to the report
+00:09:04.160 screen that we just viewed if you want
+00:09:06.680 to see the edited value so say you're
+00:09:10.040 taking full advantage of the edits this
+00:09:12.360 is an aircraft that is in your territory
+00:09:14.680 you know there's been a couple tweaks
+00:09:16.720 since the last time your data is updated
+00:09:18.839 in amstat and you want to reflect a
+00:09:21.240 different time asking price you know
+00:09:23.600 your information might be a slightly bit
+00:09:25.600 more accurate you can view your values
+00:09:28.760 instead of amats so if you take your
+00:09:31.120 cursor over here to amstat
+00:09:33.920 values go to the dropdown and select
+00:09:36.880 edited values now you're viewing all of
+00:09:40.000 the values that you have entered or a
+00:09:42.240 team member has entered um I like to
+00:09:44.839 bring this up because sometimes uh
+00:09:47.200 certain team members might be working
+00:09:49.360 exclusively off of the edited values
+00:09:51.760 where you might be viewing the ampa
+00:09:53.640 values so if you're running the similar
+00:09:56.000 reports and you're seeing a variation in
+00:09:58.760 the amount of aircraft for sale or
+00:10:00.760 asking prices or just contact
+00:10:03.399 information that could be why we always
+00:10:06.040 recommend that you take a look at um the
+00:10:09.920 if your if your edited values or amstat
+00:10:12.279 values are synced
+00:10:15.320 up so that was the aircraft view um in
+00:10:20.040 similar fashion we can see the
+00:10:21.720 collaboration tools on a company and
+00:10:24.640 contact so let's jump over to the
+00:10:26.920 keyword search we're going to enter in a
+00:10:29.200 ransom
+00:10:30.880 company we're going to pull it
+00:10:34.200 up and uh any aircraft that they are
+00:10:37.560 affiliated with you'll see the same
+00:10:39.240 collaboration tools we went over um but
+00:10:42.200 now up here in the
+00:10:44.200 company view there is a slight variation
+00:10:47.720 to the collaboration tools we still have
+00:10:50.480 the favorites the notes
+00:10:54.399 engagements this button here is our do
+00:10:57.160 not contact button when you're utilizing
+00:10:59.880 the button do the do not contact button
+00:11:03.000 from the company view it excludes all
+00:11:06.200 contacts for that
+00:11:10.360 company we also have the reminders user
+00:11:14.519 identified Fields you can add that
+00:11:16.760 within the manage
+00:11:20.320 columns we have the print company and
+00:11:23.639 when you select that it brings a drop
+00:11:26.160 down for a bunch of different options
+00:11:28.600 here full report inventory report you
+00:11:31.680 can print out your notes that you've
+00:11:33.560 entered for this specific
+00:11:36.000 company and then the attachments is the
+00:11:39.000 same as we saw in um the aircraft View
+00:11:43.079 and
+00:11:47.040 reports jumping over to the contacts if
+00:11:50.399 I expand the any given contact
+00:11:53.720 here I can see my collaboration tools
+00:11:56.560 are on here as well
+00:11:59.560 some of the same ones are repetitive
+00:12:01.519 here you can see them you can add a
+00:12:04.240 favorite contact as a favorite add notes
+00:12:07.200 on the specific contact engagements and
+00:12:10.360 now we have this do not contact button
+00:12:12.480 again here but this is slightly
+00:12:14.040 different so by selecting the do not
+00:12:16.680 contact button under the specific
+00:12:19.320 contact you're putting just this contact
+00:12:22.360 so Mr Gregory is going to be on your do
+00:12:26.040 not contact list versus the Entre hire
+00:12:30.000 um all the contacts for Masco Corp by
+00:12:32.440 using this button this do not
+00:12:37.079 contact and then we have just this one
+00:12:39.800 as a new one here this lets you add this
+00:12:42.160 specific contact information email to
+00:12:44.399 your outlook or email that you're
+00:12:50.440 using so that was how to view um how to
+00:12:54.519 utilize the collaboration tools within
+00:12:57.720 the company View as well as the contact
+00:13:01.000 and um the aircraft collaboration tools
+00:13:04.240 are relevant as well on the company
+00:13:06.160 window view um for any aircraft that
+00:13:08.959 they are currently affiliated
+00:13:12.639 with now let's say you've gone ahead and
+00:13:15.839 really Taken full advantage of your
+00:13:18.680 collaboration tools and um you want to
+00:13:22.519 have a way to see them more conveniently
+00:13:25.000 to access them without locating any
+00:13:27.800 previously report you've run or having
+00:13:30.560 to search through uh individual
+00:13:33.959 companies or contacts to see what those
+00:13:36.600 notes might have been or attachments
+00:13:39.120 you've added there's a very convenient
+00:13:41.600 way to do that via the dashboard as well
+00:13:44.600 as the tools
+00:13:46.240 bucket so going back over to the
+00:13:50.480 dashboard you might have noticed when I
+00:13:53.040 um showed my screen my dashboard was
+00:13:55.759 completely um empty I did that
+00:13:59.240 intentionally for this demo uh or this
+00:14:02.079 webinar um we do encourage everyone to
+00:14:04.959 utilize the available widgets on your
+00:14:07.440 dashboard to really get in there and
+00:14:09.320 customize them um I just left mine blank
+00:14:12.279 so that I can highlight the
+00:14:14.160 collaboration tool
+00:14:16.560 widgets so going right over to this plus
+00:14:19.680 button
+00:14:21.800 here first couple of options are going
+00:14:25.279 to be the widgets that are associated to
+00:14:29.120 the collaboration tool save searches
+00:14:32.240 kind of crosses over a little bit here
+00:14:34.160 this is going to house all of your save
+00:14:36.560 searches um regardless of any
+00:14:39.199 collaboration tools you might have
+00:14:40.720 utilized but it is a nice feature to
+00:14:43.680 kind of bundle with the webinar on the
+00:14:46.680 the collaboration tools because it does
+00:14:49.160 all your save reports I'm sorry all your
+00:14:51.519 Sav reports are saved in this widget and
+00:14:55.120 then once you select them you can see um
+00:14:58.959 you can see your collaboration tools
+00:15:01.399 here and it'll highlight any ones that
+00:15:03.959 you've um filtered
+00:15:08.480 through going back to the dashboard so
+00:15:11.199 we added the widget for the save
+00:15:13.800 search now if we go back to the add
+00:15:16.560 widget button we can now add our
+00:15:19.759 favorites so any company aircraft
+00:15:23.440 contact or U Market summary report that
+00:15:26.320 you might have added as a favorite is
+00:15:28.959 now bundled up into this one widget in
+00:15:31.480 tab
+00:15:32.440 form from here you can see if any of
+00:15:35.399 your favorites have had changes you can
+00:15:37.800 remove them from your
+00:15:42.000 favorites then we have the
+00:15:45.639 reminders you can add this reminder to
+00:15:48.839 your widget so any reminders that you
+00:15:50.959 have put on an
+00:15:52.759 aircraft um a a
+00:15:55.959 contact a company you can see see that
+00:15:59.120 here if if if anyone is a big checklist
+00:16:02.440 person or a to-do list person this one
+00:16:05.440 really hits home for for me personally
+00:16:07.839 because it is similar to that you're
+00:16:09.839 adding a to-do list for yourself by date
+00:16:12.639 you can see what your day is shaping out
+00:16:14.800 to be what your task at hand is and once
+00:16:17.600 you're done with that you can go ahead
+00:16:19.480 and click it off as
+00:16:24.560 completed going back to the ad widget we
+00:16:27.720 have engagement
+00:16:29.360 folders so this will show you all the
+00:16:31.720 current engagement folders you have in
+00:16:33.560 place how many documents are attached to
+00:16:36.920 those engagement folders as
+00:16:39.600 well and again everything is designed to
+00:16:42.040 be really sticky so you can just jump to
+00:16:44.279 any of these engagement folders these
+00:16:47.000 aircrafts or contacts you can click
+00:16:49.079 right on them without having to enter it
+00:16:51.120 into the keyword
+00:16:55.199 search moving over to the notes
+00:16:59.880 this will give you uh a list of any
+00:17:02.399 current notes you have um in your uh any
+00:17:07.039 current notes that you've added using
+00:17:08.720 the collaboration tool via uh the
+00:17:11.359 company aircraft or
+00:17:14.599 contact now once you have your widget
+00:17:17.079 set up if you want to solely use your
+00:17:19.079 dashboard for these collaboration tool
+00:17:21.400 widgets that's great but you see they
+00:17:23.640 kind of piled up on top of each other
+00:17:25.959 these widgets are interchangeable so you
+00:17:28.119 can adjust them to have your a full
+00:17:30.480 screen view so you can see everything in
+00:17:33.440 one shot you just hover over until you
+00:17:36.240 get this little cross with the arrow in
+00:17:38.320 each Direction I'm sure there's a more
+00:17:40.720 efficient name for that but um and then
+00:17:43.039 you can just drag these over it and
+00:17:45.160 arrange
+00:17:48.160 them so that was how to kind of have uh
+00:17:52.640 a a broader scope of your current
+00:17:55.080 collaboration tools and what you're
+00:17:56.520 utilizing within your dashboard
+00:17:59.360 another way to see what you've been
+00:18:02.280 doing so to speak is jumping over to the
+00:18:05.880 tools bucket right
+00:18:10.840 here this personal data manager within
+00:18:13.919 your tools bucket is going to house in
+00:18:16.400 Report Form all your collaboration tools
+00:18:19.520 that you've been taking advantage of so
+00:18:21.559 for example any um edits you've done
+00:18:24.520 will be housed in these these uh reports
+00:18:27.559 here um you can see just your edits you
+00:18:30.280 can see the shared edits or your team
+00:18:32.640 edits um any notes you've made whether
+00:18:35.840 they're on the aircraft the company or
+00:18:39.559 contact and it goes on and on to to
+00:18:42.480 include the rest of the collaboration
+00:18:44.799 tools such as engagement folders
+00:18:47.640 favorite Aircraft company and just so
+00:18:50.080 you can see what they would look like if
+00:18:51.919 I wanted a full list of the aircraft
+00:18:55.080 I've labeled as favorite I select
+00:18:56.880 favorite and it puts everything for me
+00:18:59.240 into one
+00:19:03.960 report another feature that we do offer
+00:19:07.559 and I kind of brought it up throughout
+00:19:09.520 the webinar is sharing so we do allow
+00:19:13.720 certain collaboration tools to be shared
+00:19:16.799 with other users uh within your
+00:19:19.080 organization so as long as some your
+00:19:21.480 team members have access to with a an
+00:19:25.120 amstat license you're the admin on the
+00:19:27.960 account can turn on sharing features
+00:19:30.640 which is which is a great tool
+00:19:32.159 especially if you have a remote team or
+00:19:35.559 staff members or team members that are
+00:19:37.960 in different parts of the country or
+00:19:39.960 World um or if you're even just
+00:19:42.080 traveling and have uh minimal access you
+00:19:44.960 can to them you can you can add a note
+00:19:47.159 for them a reminder an engagement
+00:19:49.240 through the
+00:19:50.559 application and those features those
+00:19:53.240 collaboration tools that can be turned
+00:19:54.960 on for sharing are the notes so you can
+00:19:58.039 add notes for team members you can see
+00:19:59.840 other team members notes the
+00:20:02.280 attachments um any edits that you make
+00:20:05.080 you can make those shared and you can
+00:20:06.840 see who who last made an edit and what
+00:20:09.200 it was and the last one that you can
+00:20:11.600 share with your team is the engagement
+00:20:19.159 folders so this does complete our uh
+00:20:23.720 final December webinar Jessica do we
+00:20:26.760 have any questions
+00:20:29.840 um no questions in the chat right now
+00:20:32.720 okay thank you um with that this this
+00:20:36.280 demo was or this webinar was hosted in
+00:20:39.280 um Premiere uh plus but if anybody on
+00:20:42.159 the call is a connect subscriber and
+00:20:45.159 would like to learn about any additional
+00:20:46.960 features you might have saw as we were
+00:20:48.880 kind of walking through the application
+00:20:51.440 feel free to reach out to myself or
+00:20:53.440 Jessica and we can set you up with um a
+00:20:56.039 a demo of Premiere and answer any
+00:20:58.960 questions you might have about
+00:21:01.240 Premiere we would like to have everybody
+00:21:04.520 attend the first January webinar so the
+00:21:07.919 first webinar of 2024 will be on January
+00:21:11.279 88th and we'll focus on the amab buckets
+00:21:14.840 we touched a little bit about it today
+00:21:16.799 using using the tool bucket and the the
+00:21:19.679 dashboard one but um there are other
+00:21:22.840 features in there and we we will be
+00:21:25.200 going over what they are why you should
+00:21:28.200 be using them and how to manage the data
+00:21:31.120 within your
+00:21:33.000 buckets um we wish everybody a lovely
+00:21:36.080 holiday season if you do have any
+00:21:38.559 questions about what you saw today or if
+00:21:41.200 you have any general questions about the
+00:21:43.440 services feel free to reach out to
+00:21:45.400 myself and Jessica so thank you
+00:21:48.360 everybody have a great holiday
+00:21:50.679 season thanks everyone thanks
+00:21:57.039 Sonia

@@ -1,0 +1,16 @@
+# Requirements for Transcript Chunking Script
+
+# AI-enhanced chunking (requires OpenAI)
+openai>=1.0.0  # For AI-powered semantic chunking
+
+# Vector Database (Qdrant)
+qdrant-client>=1.7.0  # For pushing chunks to Qdrant vector DB
+
+# API Server (Flask)
+flask>=3.0.0  # For REST API server
+flask-cors>=4.0.0  # For CORS support
+
+# Optional: If you want to use more advanced chunking strategies
+# tiktoken>=0.5.0  # For token-based chunking (OpenAI compatible)
+# langchain>=0.1.0  # For advanced text splitting
+

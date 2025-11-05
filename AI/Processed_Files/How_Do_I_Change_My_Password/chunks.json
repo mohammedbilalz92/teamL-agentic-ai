@@ -1,0 +1,33 @@
+{
+  "source_file": "tactiq-free-transcript-How_Do_I_Change_My_Password.txt",
+  "title": "How Do I Change My Password",
+  "url": "https://www.youtube.com/watch/jo8rTHytdjw",
+  "total_chunks": 2,
+  "chunk_size": 1000,
+  "chunk_overlap": 200,
+  "processed_date": "2025-11-04T16:08:35.573264",
+  "chunks": [
+    {
+      "id": "amstat-change-password-1",
+      "title": "How Do I Change My Password",
+      "source": "https://www.youtube.com/watch/jo8rTHytdjw",
+      "chunk_text": "To update your Amstad subscription password, navigate to Settings under My Account and Account Credentials. Select Change Password and enter your new password. Be sure to meet the password requirements listed on the screen.",
+      "metadata": {
+        "timestamp_start": "00:00:01",
+        "timestamp_end": "00:00:22",
+        "topic": "Steps to Change Your Amstad Subscription Password"
+      }
+    },
+    {
+      "id": "amstat-change-password-2",
+      "title": "How Do I Change My Password",
+      "source": "https://www.youtube.com/watch/jo8rTHytdjw",
+      "chunk_text": "After updating your password, you can use the new password to log into the database. If you need to change your email address associated with your account, you must contact service@amstatcorp.com. The email address you use will be linked to your login credentials along with your password.",
+      "metadata": {
+        "timestamp_start": "00:00:25",
+        "timestamp_end": "00:00:43",
+        "topic": "Using the New Password and Updating Email Address"
+      }
+    }
+  ]
+}

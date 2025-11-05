@@ -1,0 +1,99 @@
+{
+  "source_file": "tactiq-free-transcript-Amstat_Premierplus_crash_course.txt",
+  "title": "Amstat Premierplus crash course",
+  "url": "https://www.youtube.com/watch/orovJs56FJY",
+  "total_chunks": 8,
+  "chunk_size": 1000,
+  "chunk_overlap": 200,
+  "processed_date": "2025-11-04T16:07:52.622002",
+  "chunks": [
+    {
+      "id": "amstat-premierplus-1",
+      "title": "Amstat Premierplus crash course",
+      "source": "https://www.youtube.com/watch/orovJs56FJY",
+      "chunk_text": "Introduction and webinar overview. Sonia Burke, Customer Service Manager at Amstat, welcomes attendees and introduces Jessica Simmons, Customer Service Specialist. They explain that today's webinar is a crash course on Premiere Plus, highlighting its additional features compared to Premiere or Connect. They mention that future webinars will dive deeper into individual features. Jessica will handle questions via chat, and attendees are encouraged to schedule group or individual training sessions if desired.",
+      "metadata": {
+        "timestamp_start": "00:00:00",
+        "timestamp_end": "00:01:32",
+        "topic": "Webinar Introduction and Premiere Plus Overview"
+      }
+    },
+    {
+      "id": "amstat-premierplus-2",
+      "title": "Amstat Premierplus crash course",
+      "source": "https://www.youtube.com/watch/orovJs56FJY",
+      "chunk_text": "Explanation of Premiere Plus features and pricing. Premiere Plus offers several added features beyond Premiere or Connect, including the Aircraft Valuation Tool, Global Flight Utilization, Stat Pack, Potentially Sanctioned Aircraft status, and various operator and fleet metrics such as length of ownership, fleet utilization, OEM preferences, and purchase metrics. The Premiere Plus bundle is available for an additional fee added to the current service agreement, granting all licensed Amstat users access to these features.",
+      "metadata": {
+        "timestamp_start": "00:01:32",
+        "timestamp_end": "00:02:26",
+        "topic": "Premiere Plus Features and Pricing Structure"
+      }
+    },
+    {
+      "id": "amstat-premierplus-3",
+      "title": "Amstat Premierplus crash course",
+      "source": "https://www.youtube.com/watch/orovJs56FJY",
+      "chunk_text": "Aircraft Valuation Tool introduction and demonstration. Sonia shows her personal dashboard and explains that layouts may vary for users. She demonstrates accessing the Aircraft Valuation Tool by selecting a random aircraft, a Pilatus, and viewing its status and asking price. By clicking the dollar sign icon, the valuation tool opens, showing two sections: on the left, objective values considered in the base value calculation such as total time and engine times, year, make, and model; on the right, a real-time calculated table of estimated base values using a consistent algorithm. She notes a future webinar will provide an in-depth tutorial on this tool, including adjusting values and generating reports with estimated base values for multiple aircraft.",
+      "metadata": {
+        "timestamp_start": "00:02:26",
+        "timestamp_end": "00:05:13",
+        "topic": "Aircraft Valuation Tool Features and Usage"
+      }
+    },
+    {
+      "id": "amstat-premierplus-4",
+      "title": "Amstat Premierplus crash course",
+      "source": "https://www.youtube.com/watch/orovJs56FJY",
+      "chunk_text": "Stat Pack feature overview and report generation. Sonia revisits the Stat Pack bucket introduced in a previous webinar. Clicking it opens the Stat Pack home window where users can generate various reports visualizing key market data. There are approximately five report types, searchable by make, model, or aircraft type. She demonstrates running a 'For Sale History' report, which displays adjustable columns for time frame and data points on the left, a visual chart in the center, and a data table on the right showing metrics like active fleet, for sale percentage, days on market, and asking price. She mentions an upcoming webinar dedicated to Stat Pack will cover manipulating charts and tables, exporting, printing, and leveraging the data for client or team presentations.",
+      "metadata": {
+        "timestamp_start": "00:05:13",
+        "timestamp_end": "00:07:21",
+        "topic": "Stat Pack Reports and Visualization Features"
+      }
+    },
+    {
+      "id": "amstat-premierplus-5",
+      "title": "Amstat Premierplus crash course",
+      "source": "https://www.youtube.com/watch/orovJs56FJY",
+      "chunk_text": "Global Flight Utilization data in Premiere Plus. Sonia explains that while all Premiere and Connect customers have access to FAA flight utilization data, Premiere Plus users receive additional Global Flight Utilization data provided by FlightAware. This includes recent utilization summaries, flight segments, and more detailed flight history. Using the Pilatus aircraft example, she navigates to the flight history tab, showing visual comparisons of the aircraft to its model group, summaries of flight activity, favorite pairings, popular airport pairings, and locations. She highlights that this richer global data is exclusive to Premiere Plus.",
+      "metadata": {
+        "timestamp_start": "00:07:21",
+        "timestamp_end": "00:09:22",
+        "topic": "Global Flight Utilization Data from FlightAware"
+      }
+    },
+    {
+      "id": "amstat-premierplus-6",
+      "title": "Amstat Premierplus crash course",
+      "source": "https://www.youtube.com/watch/orovJs56FJY",
+      "chunk_text": "Potentially Sanctioned Aircraft feature and dashboard widget. Sonia introduces a recent addition to Premiere Plus: reports on potentially sanctioned aircraft, including detailed explanations of how sanctions are determined. She demonstrates adding the 'Potentially Sanctioned Aircraft' widget to the dashboard if it is not already present. The widget displays a comprehensive list of aircraft flagged as potentially sanctioned along with source information. By clicking on the make and model, users can access a sanctions tab with details such as the sanction source and date. She encourages contacting Amstat support for questions about specific aircraft. The widget also highlights the sanction status prominently at the top of the aircraft record.",
+      "metadata": {
+        "timestamp_start": "00:09:22",
+        "timestamp_end": "00:11:51",
+        "topic": "Potentially Sanctioned Aircraft Reporting and Dashboard Widget"
+      }
+    },
+    {
+      "id": "amstat-premierplus-7",
+      "title": "Amstat Premierplus crash course",
+      "source": "https://www.youtube.com/watch/orovJs56FJY",
+      "chunk_text": "Fleet Metrics for companies in Premiere Plus. Sonia demonstrates accessing fleet metrics by searching for a company, using 'Sketchers' as an example. The company view shows familiar information from Premiere or Connect, but now includes a Fleet Metrics tab. Clicking this tab reveals detailed metrics such as average length of ownership, average monthly utilization, flight duration, purchase type, financing, and OEM preferences. She notes the interface can be clunky with scrolling but shares a tip to drag the gray line to view all metrics fully. She highlights how these metrics provide insights into operator behavior, like how long they typically retain heavy jets. She mentions future webinars will explore these metrics in more detail.",
+      "metadata": {
+        "timestamp_start": "00:11:51",
+        "timestamp_end": "00:14:00",
+        "topic": "Fleet Metrics Overview for Company Operators"
+      }
+    },
+    {
+      "id": "amstat-premierplus-8",
+      "title": "Amstat Premierplus crash course",
+      "source": "https://www.youtube.com/watch/orovJs56FJY",
+      "chunk_text": "Closing remarks, demo and trial offers, and upcoming webinar announcement. Sonia summarizes that this concludes the overview of Premiere Plus features. She reminds attendees that demos and trials of Premiere Plus are available upon request. The next webinar is scheduled for February 5th and will focus exclusively on Stat Pack, covering its five reports in detail and how to use the data effectively for presentations to prospects, clients, or team members. Jessica confirms there are no questions at this time. Sonia thanks everyone for attending and encourages reaching out for training or further information.",
+      "metadata": {
+        "timestamp_start": "00:14:00",
+        "timestamp_end": "00:15:48",
+        "topic": "Webinar Conclusion, Demo Offers, and Next Webinar Preview"
+      }
+    }
+  ]
+}

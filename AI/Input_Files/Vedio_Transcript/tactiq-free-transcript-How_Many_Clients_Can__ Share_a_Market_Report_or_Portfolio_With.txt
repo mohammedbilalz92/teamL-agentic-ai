@@ -1,0 +1,23 @@
+# tactiq.io free youtube transcript
+# No title found
+# https://www.youtube.com/watch/xMFuQbmrhaA
+
+00:00:01.199 If you are currently utilizing the
+00:00:03.040 client share portal and would like to
+00:00:05.200 see how many client licenses your
+00:00:07.040 organization has available, select
+00:00:09.679 tools, then client share portal.
+00:00:15.200 From here, this view will show you how
+00:00:17.359 many in total you have for your
+00:00:19.760 organization,
+00:00:21.439 how many are currently assigned, and how
+00:00:24.400 many are available for assignment.
+00:00:27.519 If at any point your organization would
+00:00:29.679 like to increase the total amount of
+00:00:31.599 client licenses from five, you can reach
+00:00:34.399 out to serviceamstatcp.com.
+00:00:38.079 If you'd like to stay within the total
+00:00:39.840 of five licenses, you can manage your
+00:00:42.800 your licenses with these two icons.
+00:00:47.039 This one will unassign a license
+00:00:50.239 while this one will delete a client.

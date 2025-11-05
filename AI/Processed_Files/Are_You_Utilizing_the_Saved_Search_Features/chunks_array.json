@@ -1,0 +1,112 @@
+[
+  {
+    "id": "amstat-utilizing-saved-1",
+    "title": "Are You Utilizing the Saved Search Features",
+    "source": "https://www.youtube.com/watch/pWY_wEpqK1M",
+    "chunk_text": "Welcome to the Amstat client webinar series. My name is Sonia Burke, Customer Service Manager at Amstat. Each webinar focuses on showcasing a specific feature of the Amstat Premiere and Connect services. We explain how to utilize these features to maximize the value of the service and your time. You are encouraged to ask questions at the end of the webinar via the chat feature. In the last webinar, we explored the benefits of creating searches using the criteria search and advanced list builder. This webinar will build on that by demonstrating how to use the Saved Search widget within your dashboard.",
+    "metadata": {
+      "timestamp_start": "00:00:00",
+      "timestamp_end": "00:00:49",
+      "topic": "Introduction to Amstat Webinar Series and Saved Search Feature Overview"
+    }
+  },
+  {
+    "id": "amstat-utilizing-saved-2",
+    "title": "Are You Utilizing the Saved Search Features",
+    "source": "https://www.youtube.com/watch/pWY_wEpqK1M",
+    "chunk_text": "Saving your searches provides automated updates to your previously generated reports. It groups recently added and removed aircraft within those reports. You can export aircraft and contact details for recently added or removed aircraft. Additionally, saved searches can be used as a sales tool and lead generator, helping you identify new prospects and track changes efficiently.",
+    "metadata": {
+      "timestamp_start": "00:00:52",
+      "timestamp_end": "00:01:31",
+      "topic": "Benefits of Saving Searches for Automated Updates and Sales Prospecting"
+    }
+  },
+  {
+    "id": "amstat-utilizing-saved-3",
+    "title": "Are You Utilizing the Saved Search Features",
+    "source": "https://www.youtube.com/watch/pWY_wEpqK1M",
+    "chunk_text": "Now, let's jump into the platform. I will log in through Premiere, but this feature is also available in the Connect application. Upon logging in, you arrive at the dashboard. If you do not see the Saved Search widget, you can add it by clicking the plus button to add a widget. The first option is Saved Searches. Adding this widget places it on your dashboard, which is customizable. You can move the widget around or have multiple widgets, including Saved Searches, on your dashboard. The widget allows you to save up to about 20 searches or reports generated within the service.",
+    "metadata": {
+      "timestamp_start": "00:01:38",
+      "timestamp_end": "00:02:58",
+      "topic": "Accessing and Adding the Saved Search Widget to Your Dashboard"
+    }
+  },
+  {
+    "id": "amstat-utilizing-saved-4",
+    "title": "Are You Utilizing the Saved Search Features",
+    "source": "https://www.youtube.com/watch/pWY_wEpqK1M",
+    "chunk_text": "Once the Saved Search widget loads, you will see your saved searches listed by name. Clicking on a search title pulls up the entire report. The widget also displays plus and minus numbers indicating how many changes have occurred since you last ran the report. Clicking on these changes shows additional aircraft that have entered or left your territory. These additions represent new sales prospects to reach out to regarding your services or products, while the removals indicate aircraft no longer in your territory.",
+    "metadata": {
+      "timestamp_start": "00:03:03",
+      "timestamp_end": "00:03:53",
+      "topic": "Using the Saved Search Widget to Track Changes in Your Territory"
+    }
+  },
+  {
+    "id": "amstat-utilizing-saved-5",
+    "title": "Are You Utilizing the Saved Search Features",
+    "source": "https://www.youtube.com/watch/pWY_wEpqK1M",
+    "chunk_text": "From the changes view, you can click on individual aircraft to see detailed specifications, full contact information, and sales status if relevant. You can also click 'Go to Results' to view the full standard report generated through criteria or keyword search. This report shows the entire dataset without highlighting changes, which is manageable for small reports but difficult for larger ones. Without the Saved Search widget, many users export reports and manually compare them to previous versions, which is less efficient.",
+    "metadata": {
+      "timestamp_start": "00:03:56",
+      "timestamp_end": "00:04:54",
+      "topic": "Navigating Detailed Aircraft Information and Full Reports from Saved Searches"
+    }
+  },
+  {
+    "id": "amstat-utilizing-saved-6",
+    "title": "Are You Utilizing the Saved Search Features",
+    "source": "https://www.youtube.com/watch/pWY_wEpqK1M",
+    "chunk_text": "Within the full report view, you can switch between viewing the entire report, recently added aircraft, or recently removed aircraft using a dropdown menu. Viewing recently added aircraft highlights new prospects that have entered your territory, while recently removed shows those that have left. This functionality allows you to drill down into changes and focus on new sales opportunities or track lost prospects effectively.",
+    "metadata": {
+      "timestamp_start": "00:05:00",
+      "timestamp_end": "00:05:51",
+      "topic": "Filtering Saved Search Reports by Recently Added or Removed Aircraft"
+    }
+  },
+  {
+    "id": "amstat-utilizing-saved-7",
+    "title": "Are You Utilizing the Saved Search Features",
+    "source": "https://www.youtube.com/watch/pWY_wEpqK1M",
+    "chunk_text": "You can export the report as is, manage columns by adding or removing fields, or export just the contact details for new aircraft in your territory. If you ran a report months ago and want to update it, you can modify the criteria search to add more specific details without starting from scratch. This flexibility helps maintain relevant and targeted reports over time.",
+    "metadata": {
+      "timestamp_start": "00:05:53",
+      "timestamp_end": "00:06:44",
+      "topic": "Exporting and Modifying Saved Search Reports for Targeted Prospecting"
+    }
+  },
+  {
+    "id": "amstat-utilizing-saved-8",
+    "title": "Are You Utilizing the Saved Search Features",
+    "source": "https://www.youtube.com/watch/pWY_wEpqK1M",
+    "chunk_text": "Additional features of the Saved Search widget include the ability to change the title of your saved report using the edit text button. You can also remove saved searches that are no longer relevant. For example, if you worked on a short-term project like a Jet USA management report and no longer need updates, you can delete it to keep your saved searches focused and organized with only relevant reports.",
+    "metadata": {
+      "timestamp_start": "00:06:49",
+      "timestamp_end": "00:07:43",
+      "topic": "Managing Saved Searches: Editing Titles and Removing Irrelevant Reports"
+    }
+  },
+  {
+    "id": "amstat-utilizing-saved-9",
+    "title": "Are You Utilizing the Saved Search Features",
+    "source": "https://www.youtube.com/watch/pWY_wEpqK1M",
+    "chunk_text": "This concludes the basic overview of the benefits of having the Saved Searches widget on your dashboard. Thank you for your time. If you have any questions, please use the chat feature now. If you are an Amstat Connect customer and want to see anything from these slides in more detail, feel free to reach out to me directly for an Amstat Premiere trial or demo.",
+    "metadata": {
+      "timestamp_start": "00:07:48",
+      "timestamp_end": "00:08:17",
+      "topic": "Webinar Conclusion and Invitation for Questions and Demo Requests"
+    }
+  },
+  {
+    "id": "amstat-utilizing-saved-10",
+    "title": "Are You Utilizing the Saved Search Features",
+    "source": "https://www.youtube.com/watch/pWY_wEpqK1M",
+    "chunk_text": "There are no questions at this time. Looking ahead, the next Amstat webinar will be held on November 6th and will cover exporting and printing. We will review how to export reports, contacts, company fleets, aircraft, and market summary reports. Please feel free to contact me or my colleague Jessica with any questions, to schedule private demo sessions, or to ask questions privately. We look forward to seeing everyone at the next webinar.",
+    "metadata": {
+      "timestamp_start": "00:08:26",
+      "timestamp_end": "00:09:11",
+      "topic": "Upcoming Webinar Preview and Contact Information for Support"
+    }
+  }
+]

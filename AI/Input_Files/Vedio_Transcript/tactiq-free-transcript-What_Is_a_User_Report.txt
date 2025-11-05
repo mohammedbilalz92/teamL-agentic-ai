@@ -1,0 +1,19 @@
+# tactiq.io free youtube transcript
+# No title found
+# https://www.youtube.com/watch/FoprCvi6rno
+
+00:00:00.800 What is an Amstat user report? An Amstat
+00:00:04.319 user report is a report created within
+00:00:07.279 our settings feature. This report
+00:00:09.679 outlines the total amount of users on a
+00:00:13.120 subscription and their activity. An a
+00:00:16.560 user activity report can be located
+00:00:19.600 under my account and settings
+00:00:22.640 under user activity and the admin has
+00:00:25.199 the ability to download the report. The
+00:00:27.680 report will include information from all
+00:00:29.920 of the current subscribers,
+00:00:32.079 when they last used the service, when
+00:00:34.719 they first use the service, what level
+00:00:37.200 of service they have, along with login
+00:00:40.320 sessions over the last couple of months.
